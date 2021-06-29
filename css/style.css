@@ -26,6 +26,7 @@ width:150px;
 }
 .header-part{
     margin: 100px;
+    margin-top: 0;
 }
 .top-part{
     background-color: #fffff4;
@@ -83,6 +84,13 @@ border-radius: 10px;
     background-color: #f1f1f1;
     border-radius:20px;
     margin:20px 25px;
+}
+h6{
+    color:lightgray;
+}
+.extra-part img{
+    width: 50%;
+    margin-bottom: 50px;
 }
 
 
